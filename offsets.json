@@ -45,6 +45,6 @@
   "RotationInput": "0x528",
   "ServerWorldTimeSecondsDelta": "0x2E0",
   "PlayerNamePrivate": "0x340",
-  "TargetedFortPawn": "0x18D0",
+  "TargetedFortPawn": "0x18E0",
   "bIsAnAthenaGameParticipant": "0x189f"
 }
