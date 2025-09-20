@@ -42,5 +42,9 @@
   "spectators_array": "0x108",
   "habanero_component": "0x968",
   "NetConnection": "0x520",
-  "RotationInput": "0x528"
+  "RotationInput": "0x528",
+  "ServerWorldTimeSecondsDelta": "0x2E0",
+  "PlayerNamePrivate": "0x340",
+  "TargetedFortPawn": "0x18D0",
+  "bIsAnAthenaGameParticipant": "0x189f"
 }
