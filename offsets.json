@@ -35,7 +35,7 @@
   "LastSuccessfulReloadTime": "0x1514",
   "CurrentReloadDuration": "0x1518",
   "levels": "0x1e8",
-  "aactors": "0x180",
+  "aactors": "0x1A8",
   "primary_pickup_item_entry": "0x370",
   "persistent_level": "0x38",
   "spectators": "0x2B2",
