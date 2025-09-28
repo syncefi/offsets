@@ -47,6 +47,5 @@
   "PlayerNamePrivate": "0x340",
   "TargetedFortPawn": "0x18E0",
   "bIsAnAthenaGameParticipant": "0x18D7",
-  "velocity": "0x188",
-  "location_pointer": "0x178"
+  "velocity": "0x188"
 }
