@@ -1,9 +1,9 @@
 {
   "gworld": "0x17E5C9C8",
-  "gnames": "0x17DE3A80",
+  "gnames": "0x18169E40",
   "name_private": "0x8",
   "game_state": "0x1D8",
-  "game_instance": "0x248",
+  "game_instance": "0x250",
   "local_player": "0x38",
   "mesh": "0x328",
   "player_state": "0x2C8",
