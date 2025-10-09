@@ -47,7 +47,7 @@
   "ServerWorldTimeSecondsDelta": "0x2E0",
   "velocity": "0x188",
   "TargetedFortPawn": "0x1900",
-  "location_pointer": "0x178",
+  "location_pointer": "0x170",
   "bTraceThroughWorld": "0x10d9",
   "TargetSourceOffset": "0x10f8",
   "TargetSourceOffsetWhileCrouched": "0x1110",
